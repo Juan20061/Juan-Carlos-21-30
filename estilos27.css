@@ -1,5 +1,5 @@
 ﻿/*Estilo de la barra*/
-barra-panel{
+.barra-panel{
     overflow:auto;
     position:absolute;
     left:10px;
