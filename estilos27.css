@@ -10,7 +10,7 @@
     z-index:1;
 }
 
-border-panel{
+.border-panel{
     border: 1px solid RGB(0,0,0);
     background: RGB(215,201,168);
 }
